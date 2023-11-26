@@ -1,14 +1,22 @@
-# VANGUARD
+# VANGUARD CASE STUDY
 
 ## Overview and Origin
 
-* What is the name of the company?
+* __What is the name of the company?__
 
-* When was the company incorporated?
+    Vanguard
+  
+* __When was the company incorporated?__
 
-* Who are the founders of the company?
+     Vanguard group was founded in 1975 by John Bogle.
 
-* How did the idea for the company (or project) come about?
+* __Who are the founders of the company?__
+
+    The founder of Vanguard is John Bogle.
+
+* __How did the idea for the company (or project) come about?__
+
+    The idea for the Vanguard group (most commonly known as just Vanguard) was conceived whilst John Boyle was employed with the Wellington Management Co. John Bogle   
 
 * How is the company funded? How much funding have they received?
 

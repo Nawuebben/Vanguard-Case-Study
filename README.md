@@ -1,5 +1,7 @@
 # VANGUARD CASE STUDY
 
+![alt text](
+
 ## Overview and Origin
 
 * __What is the name of the company?__
@@ -8,7 +10,7 @@
   
 * __When was the company incorporated?__
 
-     Vanguard group was founded in 1975 by John Bogle.
+     Vanguard group was founded in May of 1975 by John Bogle.
 
 * __Who are the founders of the company?__
 
@@ -16,10 +18,11 @@
 
 * __How did the idea for the company (or project) come about?__
 
-    The idea for the Vanguard group (most commonly known as just Vanguard) was conceived whilst John Boyle was employed with the Wellington Management Co. John Bogle   
-
+    The idea for the Vanguard group (most commonly known as just Vanguard), was conceived whilst John Bogle was employed with the Wellington Management Co. Mr. Bogle became interested in index funds when he learning about the *Standard & Poors*. Bogle was eventually promoted to Chairman at Wellington, only to make an investment decision that decidely ended his role at the company. Precending this blunder he was not allowed to manage money within the company anymore. His curiousity grew from there, and he decided he wanted to make his own index fund. He found ETF's to more safe and allowed the customer to invest in the sector itself, instead of just stock in a company. Not long after Boyle would create a new type of account that he did not have to manage. It wasn't long before Bogle had created the _First Index Investment Trust_ in 1976. This was essentially the antecedent to the **Vanguard 500**.
+ 
 * How is the company funded? How much funding have they received?
 
+  The company is funded mainly by two seperate classes: Investment funds, and Admiral funds. The latter usually will have a lower cost of expense, yet the minimun investment will generally be higher than the assets put into the investment funds.
 
 ## Business Activities
 

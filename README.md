@@ -1,6 +1,6 @@
 # VANGUARD CASE STUDY
 
-![alt text](
+![alt text]("C:\Users\nawue\Vanguard\Vanguard sign 2.jpg")
 
 ## Overview and Origin
 

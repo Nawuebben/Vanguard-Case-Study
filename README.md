@@ -70,19 +70,26 @@ There have been numerous trends and innovations in the investment banking domain
 
 * __How is your company performing relative to competitors in the same domain?__
 
-  Vanguard has performed historically very well when compared to its' primary competitors. Vanguard's dominance in the investment banking sector can be attributed to their ability to remain one of the top investment banks in the world. Vanguard posseses this ability because of their unique business model. Since Vanguard is owned by the shareholders, and isn't managed by a firm, the expense ratios offered can be incredibly low compared to the competition. Operating at cost, and allowing the investors to reap all the profits makes 
+  Vanguard has performed historically very well when compared to its' primary competitors. Vanguard's dominance in the investment banking sector can be attributed to their ability to remain one of the top investment banks in the world. Vanguard posseses this ability because of their unique business model. Since Vanguard is owned by the shareholders, and isn't managed by a firm, the expense ratios offered can be incredibly low compared to the competition. Operating at cost, and allowing the investors to reap all the profits makes. Operating at such a low cost positively contributes to all other metrics measured.
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* __If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)__
 
-* Why do you think that offering this product or service would benefit the company?
+  If I were an advisor for the Vanguard group, I would personally advocate for more research and development when it comes to technology, especially financial technology. Even though Vanguard is one of the most successful and funded companies in the world, it still lacks in the technology department. The main competitor to Vanguard is Blackrock, which specializes more in holding assets among other things. Blackrock is considered one of the best companies when it comes to analytical tools and Vanguard is often lagging behind. 
 
-* What technologies would this additional product or service utilize?
+* __Why do you think that offering this product or service would benefit the company?__
 
-* Why are these technologies appropriate for your solution?
+  I think that Vanguard should invest more into their research and development team would increase growth immensely. If Vanguard were to invest and research more into financial models and technology that helps advise investors. Vanguard has implemented robo-advisors, but that is not sufficient measure alone.
+  
+* __What technologies would this additional product or service utilize?__
 
+  The technologies that would need to be utilized to have the most profound effect would be data analytical models. Vanguard already being a market maker is why expanding the services offered is so imperative. If they remained stagnant, there would be no success in their future. Perfecting these models and integrating them into their own robo-advisors.
 
-* Why do you think that offering this product or service would benefit the company?
+* __Why are these technologies appropriate for your solution?__
+
+  These technologies would be appropriate because it would be the best way to expand services. Vanguard already has the analytical tools to provide investment practices that their clients find suitable. Although Vanguard has dominated the low-cost, ETF markets, it is necessary to branch the services offered.
+
+* __Why do you think that offering this product or service would benefit the company?__
 
 * What technologies would this additional product or service utilize?
 

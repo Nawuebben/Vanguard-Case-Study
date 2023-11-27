@@ -87,10 +87,16 @@ There have been numerous trends and innovations in the investment banking domain
 
 * __Why are these technologies appropriate for your solution?__
 
-  These technologies would be appropriate because it would be the best way to expand services. Vanguard already has the analytical tools to provide investment practices that their clients find suitable. Although Vanguard has dominated the low-cost, ETF markets, it is necessary to branch the services offered.
+  These technologies would be appropriate because it would be the best way to expand services. Vanguard already has the analytical tools to provide investment practices that their clients find suitable. Although Vanguard has dominated the low-cost, ETF markets, it is necessary to branch the services offered. A robo-advisor is an effective low cost solution, when compared to the use of human labor for the same services.
 
 * __Why do you think that offering this product or service would benefit the company?__
 
-* What technologies would this additional product or service utilize?
+  Offering more invesment options and working with individuals to set up more diverse portfolios. Vanguard has ETF's that no other company can compete with, when it comes to expense ratios and fees. Vanguard has proven it can offer better services through their continued success.
 
-* Why are these technologies appropriate for your solution?
+* __What technologies would this additional product or service utilize?__
+
+ Manipulating robo-advisors into offering additional sustainable invesment practices besides the tried and true ETF and low cost business model would affect any share holders. The addition of more personal and specialized stock advisement would lead to an increase in earnings per customer. Vanguard offers one of the safest invesment strategies in the market, however, if they could add another option with a slightly higher risk, the investor may be more interested in taking chances they wouldn't with other companies.
+
+* __Why are these technologies appropriate for your solution?__
+
+  These technologies, and integration of the newer analytical models into the pre-existing robo-advisors would profoundly affect the way that Vanguard competes for investors. Giving Vanguard an essential tool moving forward that they may expand upon as technology continues to evolve. This edge would increase company profits and increase the amount of investors.

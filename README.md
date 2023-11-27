@@ -100,3 +100,15 @@ There have been numerous trends and innovations in the investment banking domain
 * __Why are these technologies appropriate for your solution?__
 
   These technologies, and integration of the newer analytical models into the pre-existing robo-advisors would profoundly affect the way that Vanguard competes for investors. Giving Vanguard an essential tool moving forward that they may expand upon as technology continues to evolve. This edge would increase company profits and increase the amount of investors.
+
+## Addendum
+*https://www.msn.com/en-us/news/technology/ai-accelerationists-come-out-ahead-with-sam-altman-s-return-to-openai/ar-AA1kucDH?ocid=msedgntp&pc=LCTS&cvid=47b78d419cf04e8e9561601170b76b92&ei=12
+*https://www.bing.com/videos/riverview/relatedvideo?&q=new+companies+in+the+robo+advising+space&qpvt=new+companies+in+the+robo+advising+space&mid=48C503B9C87801801F1548C503B9C87801801F15&&FORM=VRDGAR
+*https://en.wikipedia.org/wiki/The_Vanguard_Group
+*https://www.forbes.com/sites/jeffkauflin/2019/05/30/vanguard-is-now-using-blockchain-technology-to-help-manage-13-trillion-in-index-funds/?sh=277defe58dfe
+*https://www.alpha-sense.com/blog/trends/investment-banking-trends/
+*https://www.nerdwallet.com/reviews/investing/brokers/vanguard
+*https://www.morningstar.com/markets/vanguard-2023
+*https://www.helpadvisor.com/retirement/blackrock-vs-the-vanguard-group-a-comparison-for-investors#BlackRock's%20Available%20Investment%20Services
+*https://investor.vanguard.com/investor-resources-education/portfolio-management/performance-details#modal-performance
+

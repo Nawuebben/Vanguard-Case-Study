@@ -1,6 +1,7 @@
 # VANGUARD CASE STUDY
 
-![alt text]
+![VanguardRedV](https://github.com/Nawuebben/Vanguard-Case-Study/assets/150855144/642a6ccc-57c8-4226-b232-d73049390f34)
+
 
 ## Overview and Origin
 

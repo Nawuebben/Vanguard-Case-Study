@@ -40,16 +40,22 @@
 
 * __Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)__
 
-* 
+  To remain as one of the top investment banks in the world, Vanguard has no option but keep up with the latest finanacial technologies. Vanguard is currently using, but not limited: Robo-Advising, Blockchain, Artificial Intelligence, and Machine Learning. Vanguard is using robo-advising successfuly by attracting customers that may not trust the human element part of investing. New investors who have more trust rooted in technology and the calculations they offer, will undoubtedly be interested in the use of a robo-advisor. Vanguard's robo-advisors survey the investor to get an idea of what type of investor it is dealing with. The advisor will determine the risk tolerance, strategy, how aggresive their tendencies are, etc. Vanguard is implementing blockchain technology as well to manage their index funds. Vanguard is working with Symbiont to refine the blockchain technology. By using blockchaing, employees will not need to go in manually and change anything with the CRSP (Center for Research in Security Prices), instead the CRSP will update every time anything is changed. The use of Artificial Intelligence is a new venture for every company in the financial industry. Vanguard intends to use artificial intelligence in tandem with machine learning technologies to ascertain what types of decisions should be made. 
 
 
 ## Landscape
 
-* What domain of the financial industry is the company in?
+* __What domain of the financial industry is the company in?__
 
-* What have been the major trends and innovations of this domain over the last 5–10 years?
+Vanguard group is a major player in the investment management domain. Although the company is considered young, (being 48 years old), it has made tremendous strides in world of investment management. John Bogle had a mission to popularize index funds, and he more than succeeded in his endeavor. In less than half a century, Vanguard has already managed to become the second largest invesment company in not only the U.S., but the world. 
 
-* What are the other major companies in this domain?
+*__What have been the major trends and innovations of this domain over the last 5–10 years?__
+
+
+
+* __What are the other major companies in this domain?__
+
+  The other companies that compete with the Vanguard group in the investment managemnt domain are: Blackrock
 
 
 ## Results
